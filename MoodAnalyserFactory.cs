@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Day20MoodAnalyzer
+namespace ReflectionOnUC6AnalyzeMood
 {
         public class MoodAnalyserFactory
         {
