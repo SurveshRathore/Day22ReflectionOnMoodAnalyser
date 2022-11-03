@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day20MoodAnalyzer
+namespace ReflectionOnUC6AnalyzeMood
 {
     //UC3 Mood throw Custom Exception MoodAnalysisException
         public class MoodAnalyserCustomException : Exception
