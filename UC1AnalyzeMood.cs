@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day20MoodAnalyzer
+namespace ReflectionOnUC6AnalyzeMood
 {
     public class UC1AnalyzeMood
     {
